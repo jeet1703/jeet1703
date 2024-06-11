@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **DSA, MongoDB, Machine Learning**
 
-💬 Ask me about **Node.js, React, Javascript... or anything **
+💬 Ask me about **Node.js, React, Javascript... or anything**
 
  </div>
 
