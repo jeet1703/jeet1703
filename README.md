@@ -12,7 +12,7 @@
 
 💻 Currently an intern at **Mishka Productions**
  
- 🔭 I’m currently working on **a Cobrowser **
+ 🔭 I’m currently working on **a Cobrowser**
  
  🌱 I’m currently learning **DSA, MongoDB, Machine Learning**
 
