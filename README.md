@@ -9,6 +9,8 @@
 <br/>
 
 <div align="center">
+
+💻 Currently an intern at **Mishka Productions**
  
  🔭 I’m currently working on **a Cobrowser **
  
